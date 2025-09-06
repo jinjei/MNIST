@@ -9,7 +9,7 @@ You need to install the following Python libraries:
 
 ```bash
 pip install numpy torch torchvision matplotlib
-
+```
 
 ## How to Run
 
@@ -17,7 +17,7 @@ Run the following command in your terminal:
 
 ```bash
 python test.py
-
+```
 
 On the first run, the MNIST dataset will be downloaded automatically. Please make sure you have a stable internet connection.
 
@@ -38,4 +38,3 @@ The dataset will be cached locally (about 20 MB).
 
 If you re-run the program, the dataset will be loaded from your local cache (no need to re-download).
 
-Tested with Python 3.12 on macOS.
