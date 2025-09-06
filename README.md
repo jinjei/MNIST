@@ -13,6 +13,12 @@ pip install numpy torch torchvision matplotlib
 
 ## How to Run
 
+1. Setup
+Clone the repository:
+```
+git clone https://github.com/jinjei/MNIST
+```
+
 Run the following command in your terminal:
 
 ```bash
